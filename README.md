@@ -1,5 +1,5 @@
 # What is this repository?
-We provide codes for reproducing the results reported in our paper [T. Ezaki, et al. "Towards understanding network topology and robustness of logistics systems", Communications in Transportations Research 2:100064 (2022)].
+We provide codes for reproducing the results reported in our paper [T. Ezaki, et al. "Towards understanding network topology and robustness of logistics systems", Communications in Transportation Research 2:100064 (2022)].
 
 # How to use
 - **simulate_optimal_transport.py** includes the main function of simulating the system.
